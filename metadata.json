@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 1lineAi",
+  "description": "A production-ready, ChatGPT-like AI chat application powered by Google's Gemini API. Features include multimodal support (text, image, voice), persistent history, custom assistants, and code generation capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
